@@ -24,7 +24,7 @@ This is a **command-line implementation** of **Kuhn Poker**, a simplified poker 
 ### 1 **Clone the Repository**
 
 ```sh
-git clone https://github.com/your-username/kuhn-poker.git
+git clone https://github.com/NuttakitDW/khun-poker.git
 cd kuhn-poker
 ```
 
