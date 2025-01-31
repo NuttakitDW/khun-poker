@@ -182,8 +182,8 @@ def play_round(player_card, bot_card, first_to_act, pot):
     return player_stack, bot_stack
 
 if __name__ == "__main__":
-    player_stack = 3
-    bot_stack = 3
+    player_stack = 10
+    bot_stack = 10
     first_to_act = "player"  # Player acts first in the first round
 
     play_kuhn_poker()
