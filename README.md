@@ -21,14 +21,14 @@ This is a **command-line implementation** of **Kuhn Poker**, a simplified poker 
 
 ## 🔧 **Installation & Setup**
 
-### 1⃣ **Clone the Repository**
+### 1 **Clone the Repository**
 
 ```sh
 git clone https://github.com/your-username/kuhn-poker.git
 cd kuhn-poker
 ```
 
-### 2⃣ **Run the Game**
+### 2 **Run the Game**
 
 Make sure you have **Python 3.x** installed, then run:
 
@@ -36,7 +36,7 @@ Make sure you have **Python 3.x** installed, then run:
 python khunpoker.py
 ```
 
-### 3⃣ **Play the Game**
+### 3 **Play the Game**
 
 Follow the prompts to make decisions (`check`, `bet`, `call`, or `fold`).
 
